@@ -1,0 +1,7 @@
+/home/landeros/eclipse-workspace/restdemo-spring-boot/src/main/java/com/landeros/restdemo/exposition/ws/rest/StudentRest.java
+/home/landeros/eclipse-workspace/restdemo-spring-boot/src/main/java/com/landeros/restdemo/exposition/ws/rest/AuditRest.java
+/home/landeros/eclipse-workspace/restdemo-spring-boot/src/main/java/com/landeros/restdemo/service/StudentService.java
+/home/landeros/eclipse-workspace/restdemo-spring-boot/src/main/java/com/landeros/restdemo/service/impl/StudentServiceImpl.java
+/home/landeros/eclipse-workspace/restdemo-spring-boot/src/main/java/com/landeros/restdemo/exposition/api/dto/ResultDTO.java
+/home/landeros/eclipse-workspace/restdemo-spring-boot/src/main/java/com/landeros/restdemo/exposition/api/dto/StudentDTO.java
+/home/landeros/eclipse-workspace/restdemo-spring-boot/src/main/java/com/landeros/restdemo/RestdemoApplication.java

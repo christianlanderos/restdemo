@@ -1,0 +1,7 @@
+com/landeros/restdemo/exposition/api/dto/ResultDTO.class
+com/landeros/restdemo/service/StudentService.class
+com/landeros/restdemo/exposition/ws/rest/AuditRest.class
+com/landeros/restdemo/exposition/api/dto/StudentDTO.class
+com/landeros/restdemo/exposition/ws/rest/StudentRest.class
+com/landeros/restdemo/service/impl/StudentServiceImpl.class
+com/landeros/restdemo/RestdemoApplication.class

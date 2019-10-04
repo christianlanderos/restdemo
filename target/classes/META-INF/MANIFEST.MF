@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: restdemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: landeros
+Implementation-Vendor-Id: com.landeros
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/restdemo
+Created-By: Maven Integration for Eclipse
+
